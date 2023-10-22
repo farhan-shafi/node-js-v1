@@ -1,0 +1,15 @@
+{
+  "name": "node-v1",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "farhan-shafi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
